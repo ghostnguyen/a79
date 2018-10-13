@@ -2,4 +2,4 @@
 https://github.com/foremptyonly/a79/blob/master/645.json
 
 
-/v1/645/statistic/reset
+http://13.250.98.221/v1/645/statistic/reset
